@@ -1,6 +1,6 @@
-# Merhaba, ben Kardelen 👋
+# Kardelen Yeşil | Aspiring Business Analyst
 
-🎓 Yönetim Bilişim Sistemleri mezunuyum.
+👋 Merhaba! Yönetim Bilişim Sistemleri mezunuyum. İş analizi ve proje koordinasyonu alanlarında kariyerimi geliştiriyorum.
 
 İş analizi, gereksinim yönetimi ve proje koordinasyonu alanlarında kariyerimi geliştirmeye odaklanıyorum.
 
